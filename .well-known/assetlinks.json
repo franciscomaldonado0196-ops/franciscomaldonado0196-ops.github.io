@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.franciscomaldonado0196_ops.twa",
+        "sha256_cert_fingerprints": ["17:78:C8:D4:EE:A5:5B:92:6E:5D:BA:4D:CB:1E:83:59:C6:2A:D6:7C:FE:A1:4D:55:D4:69:3B:CF:F3:6C:0F:0F"]
+      }
+    }]
